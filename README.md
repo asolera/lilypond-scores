@@ -10,7 +10,7 @@ How to: https://github.com/firstcontributions/first-contributions
 
 ## Scores
 
-- [Franz Liszt - Mephisto Waltz No.4 (S.696)](scores/Franz-Liszt/Mephisto-Waltz-No.4/)  
-_Still in progress. The goal is to complete the slow middle section (see [this link](https://en.wikipedia.org/wiki/Mephisto_Waltzes#cite_note-16))._
 - [Antonio Pinto, Jacques Morelenbaum - Central do Brasil](scores/Antonio-Pinto,-Jacques-Morelenbaum/Central-do-Brasil)  
 _Done. Arrangement for solo piano based on main theme from Central Station (Central do Brasil) film (1998)._
+- [Franz Liszt - Mephisto Waltz No.4 (S.696)](scores/Franz-Liszt/Mephisto-Waltz-No.4/)  
+_Still in progress. The goal is to complete the slow middle section (see [this link](https://en.wikipedia.org/wiki/Mephisto_Waltzes#cite_note-16))._

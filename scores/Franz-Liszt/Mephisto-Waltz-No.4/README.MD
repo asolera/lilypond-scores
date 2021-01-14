@@ -4,7 +4,7 @@ _Still in progress._
 
 Tasks:
 1. Finish transcription to lilypond notation.
-2. complete the slow middle section.
+2. Complete the slow middle section.
 
 ## References
 
